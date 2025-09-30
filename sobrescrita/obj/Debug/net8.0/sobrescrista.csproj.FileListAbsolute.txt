@@ -1,0 +1,15 @@
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.AssemblyInfoInputs.cache
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.AssemblyInfo.cs
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.csproj.CoreCompileInputs.cache
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.sourcelink.json
+/workspaces/POO_aula01/sobrescrita/bin/Debug/net8.0/sobrescrista
+/workspaces/POO_aula01/sobrescrita/bin/Debug/net8.0/sobrescrista.deps.json
+/workspaces/POO_aula01/sobrescrita/bin/Debug/net8.0/sobrescrista.runtimeconfig.json
+/workspaces/POO_aula01/sobrescrita/bin/Debug/net8.0/sobrescrista.dll
+/workspaces/POO_aula01/sobrescrita/bin/Debug/net8.0/sobrescrista.pdb
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.dll
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/refint/sobrescrista.dll
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.pdb
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/sobrescrista.genruntimeconfig.cache
+/workspaces/POO_aula01/sobrescrita/obj/Debug/net8.0/ref/sobrescrista.dll
